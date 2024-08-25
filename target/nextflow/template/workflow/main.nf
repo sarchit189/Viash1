@@ -2945,14 +2945,13 @@ meta = [
     }
   ],
   "build_info" : {
-    "config" : "/home/runner/work/viash_project_template/viash_project_template/src/template/workflow/config.vsh.yaml",
+    "config" : "/home/runner/work/Viash1/Viash1/src/template/workflow/config.vsh.yaml",
     "runner" : "nextflow",
     "engine" : "native",
     "output" : "target/nextflow/template/workflow",
     "viash_version" : "0.9.0-RC6",
-    "git_commit" : "7e4c7ea0e4f1771bbe027be417b571ee6d20b54c",
-    "git_remote" : "https://github.com/viash-io/viash_project_template",
-    "git_tag" : "v0.2.2-21-g7e4c7ea"
+    "git_commit" : "2e25498f2c544ca69b89d8428969d18376d60eea",
+    "git_remote" : "https://github.com/sarchit189/Viash1"
   },
   "package_config" : {
     "name" : "project_template",
